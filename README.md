@@ -1,5 +1,6 @@
-# ArdVoice: A library to play audio (voices) on the Arduboy
+# ArdVoice: A library to play audio (voices) on the Arduboy (and other boards!)
 By @igvina
+other board support by @colinthebeardie
 ## Features:
 ### Voice library:
 * Play compressed audio (works better with voices)
